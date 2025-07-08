@@ -11,6 +11,31 @@
   <img src="https://github.com/qalidiarodriguez/qalidiarodriguez/blob/main/qaqueen_tecleando.gif.gif?raw=true" width="400" alt="QA Queen trabajando" />
 </p>
 
+## 👑 Tecnologías y herramientas que domino
+
+### 🌸 QA Manual y Automatizado
+
+🧪 Casos de prueba | Bugs | Reportes  
+📌 Documentación clara en **Jira** y **TestRail**  
+🔁 Pruebas de APIs en **Postman**  
+🤖 Automatización con **Selenium + Python + PyCharm**  
+
+---
+
+### 💻 Lenguajes y tecnologías
+
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FBBF24?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-60A5FA?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FDE68A?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🛠️ Herramientas y entornos
+
+![Postman](https://img.shields.io/badge/Postman-EC4899?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/ba)
+
 ---
 
 ## 🚀 Tecnologías y herramientas

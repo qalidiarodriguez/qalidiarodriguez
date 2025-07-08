@@ -8,7 +8,7 @@
 
 <h3 align="center">💻✨ Bienvenida a mi mundo QA y STEM ✨💻</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://github.com/qalidiarodriguez/qalidiarodriguez/blob/main/qaqueen_tecleando.gif?raw=true" width="400" alt="QA Queen trabajando" />
 </p>
 
 ---

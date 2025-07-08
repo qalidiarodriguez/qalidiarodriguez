@@ -37,7 +37,7 @@
 ### 🛠️ Herramientas y entornos
 
 ![Postman](https://img.shields.io/badge/Postman-EC4899?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/ba)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium)
 
 ---
 

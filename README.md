@@ -1,16 +1,34 @@
-## Hi there 👋
+<img src="https://github.com/qalidiarodriguez/qa-portfolio/blob/main/banner_portafolio.png.png?raw=true" alt="banner" width="100%" />
 
-<!--
-**qalidiarodriguez/qalidiarodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Lidia Pamela Rodriguez Vigueras
 
-Here are some ideas to get you started:
+🎓 QA Engineer | 👑 QA Queen | 🌸 Fundadora de PamSTEM  
+📍 Mérida, Yucatán | 💻 Apasionada por la tecnología, el liderazgo femenino y la educación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=flat&logo=jetbrains&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 [Portafolio QA](https://github.com/qalidiarodriguez/qa-portfolio)  
+🔹 [Pruebas con Postman](https://github.com/qalidiarodriguez/postman-tests)
+
+---
+
+## 📫 Contacto
+
+- 📧 lidiapamelavidalaboral@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lidiapamela)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!

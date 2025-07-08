@@ -74,9 +74,9 @@
 ## 📫 Contacto
 
 - 📧 lidiapamelavidalaboral@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lidiapamela)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lidiapamelarodriguezvigueras)  
 - 💜 [PamSTEM](https://pamstem.carrd.co)
 
 ---
 
-⭐ ¡Gracias por visitar mi perfil! ¡Vamos a testear el mundo juntas! 👑🌍
+⭐ ¡Gracias por visitar mi perfil! ¡Vamos a testear el mundo junt@s! 👑🌍

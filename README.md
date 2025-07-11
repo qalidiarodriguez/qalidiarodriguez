@@ -75,7 +75,7 @@
 
 - 📧 lidiapamelavidalaboral@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lidiapamelarodriguezvigueras)  
-- 💜 [PamSTEM](https://pamstem.carrd.co)
+- 💜 [PamSTEM](https://qalidiarodriguez.github.io/lidipamelarodriguezvigueras.github.io/)
 
 ---
 

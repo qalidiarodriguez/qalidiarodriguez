@@ -4,7 +4,7 @@
 <h3 align="center">QA Engineer (Remote) | Automation QA | 👑 QA Queen | 🌸 Fundadora de PamSTEM</h3>
 <p align="center">💻 Desde Mérida, Yucatán | 🌱 Construyendo un mundo mejor con tecnología, liderazgo femenino y educación</p>
 
-<p>
+<p align="center" style="margin-top: 10px;">
 🌍 <strong>Prefer English?</strong><br>
 👉 <a href="https://github.com/qalidiarodriguez/qalidiarodriguez/blob/main/README_EN.md">
 QA Profile – English Version

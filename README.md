@@ -1,8 +1,10 @@
 <img src="https://github.com/qalidiarodriguez/qa-portfolio/blob/main/banner_portafolio.png.png?raw=true" alt="banner" width="100%" />
 
 <h1 align="center">👋 ¡Hola! Soy Lidia Pamela Rodriguez Vigueras</h1>
-<h3 align="center">QA Engineer | 👑 QA Queen | 🌸 Fundadora de PamSTEM</h3>
+<h3 align="center">QA Engineer (Remote) | Automation QA | 👑 QA Queen | 🌸 Fundadora de PamSTEM</h3>
 <p align="center">💻 Desde Mérida, Yucatán | 🌱 Construyendo un mundo mejor con tecnología, liderazgo femenino y educación</p>
+🌍 Prefer English?  
+👉 Read my profile in English here: [QA Profile – English Version](LINK_AL_REPO_EN_INGLÉS)
 
 ---
 
@@ -18,6 +20,23 @@
 
 ### 🌸 QA Manual y Automatizado
 
+🤖 Automatización moderna:
+- Playwright
+- Cypress
+
+📊 Gestión y análisis:
+- Jira
+- Git & GitHub
+
+🔐 Debug y análisis de red:
+- Charles Proxy
+
+🧠 IA aplicada a QA:
+- Uso de IA (Gemini / IA generativa) para:
+  - análisis de casos
+  - apoyo en automatización
+  - aprendizaje guiado
+
 🧪 Casos de prueba | Bugs | Reportes  
 📌 Documentación clara en **Jira** y **TestRail**  
 🔁 Pruebas de APIs en **Postman**  
@@ -25,7 +44,7 @@
 
 ---
 
-### 💻 Lenguajes y tecnologías
+### 💻 Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FBBF24?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,24 +53,54 @@
 
 ---
 
-### 🛠️ Herramientas y entornos
+### 🛠️ QA, automatización y entornos
+
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-EC4899?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium)
+![Jira](https://img.shields.io/badge/Jira-0A66C2?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-0052CC?style=for-the-badge)
+
+🧠 Inteligencia Artificial aplicada a QA  
+- Uso de IA generativa (Gemini) para:
+  - análisis de casos de prueba
+  - apoyo en automatización
+  - aprendizaje y mentoría técnica
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 📂 Proyectos y repositorios
 
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-green?style=flat&logo=jetbrains&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+### 🔹 Proyectos profesionales y de portafolio
 
----
+🔹 [Portafolio QA](https://github.com/qalidiarodriguez/qa-portfolio)  
+Portafolio con mi enfoque como QA Engineer, automatización y documentación.
+
+🔹 [Pruebas con Postman](https://github.com/qalidiarodriguez/postman-tests)  
+Colección de pruebas de APIs y validaciones.
+
+### 🎓 Repositorios educativos (aprende conmigo)
+
+👩‍🏫 Creo repositorios reales para enseñar QA de forma honesta,
+incluyendo errores, pruebas fallidas y ejemplos claros.
+
+🔸 [Fail Test con Cypress – ejemplo real](https://github.com/qalidiarodriguez/Fail-Test-webgithub-cypress)  
+Ejemplo de prueba fallida usando mi propia web (sí, mi profe también falla 😄).
+
+🔸 [Playwright – estructura de tests](https://github.com/qalidiarodriguez/playwright-saucedemo-tests)  
+Ejemplo de cómo se verían pruebas automatizadas con Playwright.
+
+🔸 [QA Automation – Educación Inteligente](https://github.com/qalidiarodriguez/QA-AUTOMATION-EDUCACION-INTELIGENTE)  
+Repositorio educativo en construcción:
+instalaciones, herramientas, uso de IA y aprendizaje paso a paso.
+
 
 ## 📂 Proyectos destacados
 
@@ -70,6 +119,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalidiarodriguez&layout=compact&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+## 🌱 Nota personal
+
+Soy mamá y educadora.
+Mi tiempo es valioso y limitado, por eso trabajo con agenda,
+priorizando entrevistas, clases, mentorías y colaboraciones.
+
+Avanzo paso a paso, con intención y calidad.
+
 
 ## 📫 Contacto
 

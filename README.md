@@ -13,9 +13,6 @@
   <img src="https://github.com/qalidiarodriguez/qalidiarodriguez/blob/main/qaqueen_tecleando.gif.gif?raw=true" width="400" alt="QA Queen trabajando" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidiapamelarodriguezvigueras)
-
-
 ## 👑 Tecnologías y herramientas que domino
 
 ### 🌸 QA Manual y Automatizado

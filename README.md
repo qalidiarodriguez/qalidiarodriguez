@@ -3,8 +3,8 @@
 <h1 align="center">👋 ¡Hola! Soy Lidia Pamela Rodriguez Vigueras</h1>
 <h3 align="center">QA Engineer (Remote) | Automation QA | 👑 QA Queen | 🌸 Fundadora de PamSTEM</h3>
 <p align="center">💻 Desde Mérida, Yucatán | 🌱 Construyendo un mundo mejor con tecnología, liderazgo femenino y educación</p>
-🌍 Prefer English?  
-👉 Read my profile in English here: [QA Profile – English Version](https://github.com/qalidiarodriguez/qalidiarodriguez/blob/main/README_EN.md)
+🌍 Prefer English? 👉 Read my profile in English here: 
+[QA Profile English Version](https://github.com/qalidiarodriguez/qalidiarodriguez/blob/main/README_EN.md)
 
 ---
 

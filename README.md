@@ -85,8 +85,16 @@ QA Profile – English Version
 🔹 [Portafolio QA](https://github.com/qalidiarodriguez/qa-portfolio)  
 Portafolio con mi enfoque como QA Engineer, automatización y documentación.
 
-🔹 [Pruebas con Postman](https://github.com/qalidiarodriguez/postman-tests)  
-Colección de pruebas de APIs y validaciones.
+🔹 [Pruebas con Postman – APIs](https://github.com/qalidiarodriguez/postman-api-tests-tripleten)
+Colección de pruebas de APIs y validaciones realizadas durante el programa de QA Engineer (TripleTen).
+
+🔹 [Urban Routes – QA Project (Web)](https://github.com/qalidiarodriguez/qa-project-Urban-Routes-es)
+Proyecto de pruebas funcionales y automatizadas para aplicación web de transporte.
+Tecnologías: Selenium, Python, documentación QA.
+
+🔹 [Urban Grocers – QA Project (App)](https://github.com/qalidiarodriguez/qa-project-Urban-Grocers-app-es)
+Proyecto de pruebas para aplicación móvil.
+Incluye diseño de casos de prueba, reportes de bugs y validaciones.
 
 ### 🎓 Repositorios educativos (aprende conmigo)
 
@@ -103,13 +111,6 @@ Ejemplo de cómo se verían pruebas automatizadas con Playwright.
 Repositorio educativo en construcción:
 instalaciones, herramientas, uso de IA y aprendizaje paso a paso.
 
-
-## 📂 Proyectos destacados
-
-🔹 [Portafolio QA](https://github.com/qalidiarodriguez/qa-portfolio)  
-🔹 [Pruebas con Postman](https://github.com/qalidiarodriguez/postman-tests)  
-🔹 [Automatizaciones con Selenium](#proximamente)
-
 ---
 
 ## 📊 Mi actividad en GitHub
@@ -125,9 +126,7 @@ instalaciones, herramientas, uso de IA y aprendizaje paso a paso.
 ## 🌱 Nota personal
 
 Soy mamá y educadora.
-Mi tiempo es valioso y limitado, por eso trabajo con agenda,
-priorizando entrevistas, clases, mentorías y colaboraciones.
-
+Mi tiempo es valioso y limitado, por eso trabajo con agenda, priorizando entrevistas, clases, mentorías y colaboraciones.
 Avanzo paso a paso, con intención y calidad.
 
 

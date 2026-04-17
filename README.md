@@ -1,5 +1,3 @@
-<img src="https://github.com/qalidiarodriguez/qa-portfolio/blob/main/banner_portafolio.png.png?raw=true" alt="banner" width="100%" />
-
 <h1 align="center">👋 ¡Hola! Soy Lidia Pamela Rodriguez Vigueras</h1>
 <h3 align="center">QA Engineer (Remote) | Automation QA | 👑 QA Queen | 🌸 Fundadora de PamSTEM</h3>
 <p align="center">💻 Desde Mérida, Yucatán | 🌱 Construyendo un mundo mejor con tecnología, liderazgo femenino y educación</p>

@@ -22,16 +22,11 @@ QA Profile – English Version
 
 ### 🌸 QA Manual y Automatizado
 
-🤖 Automatización moderna:
-- Playwright
-- Cypress
+🤖 Automatización moderna: Playwright | Cypress
 
-📊 Gestión y análisis:
-- Jira
-- Git & GitHub
+📊 Gestión y análisis: Jira | Git & GitHub
 
-🔐 Debug y análisis de red:
-- Charles Proxy
+🔐 Debug y análisis de red: Charles Proxy
 
 🧠 IA aplicada a QA:
 - Uso de IA (Gemini / IA generativa) para:
@@ -69,12 +64,6 @@ QA Profile – English Version
 ![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-0052CC?style=for-the-badge)
-
-🧠 Inteligencia Artificial aplicada a QA  
-- Uso de IA generativa (Gemini) para:
-  - análisis de casos de prueba
-  - apoyo en automatización
-  - aprendizaje y mentoría técnica
 
 ---
 
@@ -122,14 +111,6 @@ instalaciones, herramientas, uso de IA y aprendizaje paso a paso.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qalidiarodriguez&layout=compact&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 🌱 Nota personal
-
-Soy mamá y educadora.
-Mi tiempo es valioso y limitado, por eso trabajo con agenda, priorizando entrevistas, clases, mentorías y colaboraciones.
-Avanzo paso a paso, con intención y calidad.
-
-
 ## 📫 Contacto
 
 - 📧 lidiapamelavidalaboral@gmail.com  
